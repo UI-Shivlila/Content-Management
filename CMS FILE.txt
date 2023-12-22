@@ -1,0 +1,13 @@
+create_article : for adding the article 
+exit:exit 
+help: for list out the options 
+list_articles : added articles 
+login : if registered user 
+logout : logout
+register: for adding user
+
+
+Created by using CLI in CMS file
+
+Created by using html in content using python 
+
